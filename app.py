@@ -1,7 +1,6 @@
 def greet():
-   return "hello vishal G this is your first python n terminal"
-print (greet())
+    return "Hello Vishal! My second try on CI/CD project."
 
 
-
-
+if __name__ == "__main__":
+    print(greet())
