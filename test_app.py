@@ -5,7 +5,7 @@ from app import greet
 class TestApplication(unittest.TestCase):
 
     def test_greet(self):
-        expected = "Hello Vishal! My second try on CI/CD project."
+        expected = "Hello, DevOps Vishal!"
 
         self.assertEqual(greet(), expected)
 
