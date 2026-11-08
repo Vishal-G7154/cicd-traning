@@ -1,5 +1,5 @@
 def greet():
-    return "Hello Vishal! My second try on CI/CD project."
+    return "Hello, DevOps Vishal!"
 
 
 if __name__ == "__main__":
